@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Potifolio</title>
-<? include 'head_elements.php' ?>
+<?php include 'head_elements.php'; ?>
 </head>
 <body>
 
