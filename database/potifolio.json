@@ -1,0 +1,170 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'edsato_portifolio'
+
+// edsato_portifolio.potifolio
+[
+  {
+    "id": "1",
+    "titulo": "KPI Discovery Proccess",
+    "texto": "<p>Um processo estruturado bem estruturado pode mostrar os verdadeiros aspectos de sua campanha. </p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": "kpi"
+  },
+  {
+    "id": "3",
+    "titulo": "Linguagens de programação?",
+    "texto": "<p>Programar mais que conhecimento uma paixão, como um Full Stack consegue fazer tanto ?</p>",
+    "categoria": "programacao",
+    "cor": "blue-grey darken-4",
+    "link": "programacao"
+  },
+  {
+    "id": "4",
+    "titulo": "Relatórios Executivos",
+    "texto": "<p>Como apresentar as informações de forma simples e elegante</p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "5",
+    "titulo": "Planos de tags",
+    "texto": "<p>Enviar uma mensagem ao T.I. com as necessidades do Marketing</p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "6",
+    "titulo": "Ferramentas de Analytics",
+    "texto": "<p>O que mede seu sucesso? E mais importante como medir sucesso de forma eficiente</p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "7",
+    "titulo": "Marketing Testing",
+    "texto": "<p>Comprar midia é bom mas será que seu site tem que ser igual para todos os seus clientes e campanhas ? </p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "8",
+    "titulo": "Dashboards",
+    "texto": "<p>Para ter o que é importante ver no formato que seja importante para sua equipe</p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "9",
+    "titulo": "Compra de midia",
+    "texto": "<p> Construir segmentos campanhas para as pessoas certas LP, DSP, SSP uso siglas ao seu favor.",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "10",
+    "titulo": "Pré clique e pós-clique",
+    "texto": "<p>Unir a compra de media com a experiência do cliente dentro do seu site</p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "11",
+    "titulo": "Contagem de pessoas",
+    "texto": "<p>Transferir para offline seus dados e melhorar seu PDV</p>",
+    "categoria": "marketing",
+    "cor": "orange darken-4",
+    "link": ""
+  },
+  {
+    "id": "12",
+    "titulo": "Scrum",
+    "texto": "<p>Projetos com processos ágeis e bem estruturados</p> ",
+    "categoria": "lideranca",
+    "cor": "green darken-3",
+    "link": ""
+  },
+  {
+    "id": "13",
+    "titulo": "Gamefication",
+    "texto": "<p>Passar de forma organizada o conhecimento e recompensar a equipe</p>",
+    "categoria": "lideranca",
+    "cor": "green darken-3",
+    "link": ""
+  },
+  {
+    "id": "14",
+    "titulo": "Analise de projetos",
+    "texto": "<p>Conhecer todas as partes do processo ajuda a determinar quem e quanto tempo</p>",
+    "categoria": "lideranca",
+    "cor": "green darken-3",
+    "link": ""
+  },
+  {
+    "id": "15",
+    "titulo": "Gestão de pessoas",
+    "texto": "<p>Feebacks e incentivar tem que ser feito de forma humana</p>",
+    "categoria": "lideranca",
+    "cor": "green darken-3",
+    "link": ""
+  },
+  {
+    "id": "16",
+    "titulo": "Contratação",
+    "texto": "<p>Montar uma equipe bem estruturada e que possa mostrar o melhor de si</p>",
+    "categoria": "lideranca",
+    "cor": "green darken-3",
+    "link": ""
+  },
+  {
+    "id": "17",
+    "titulo": "Tags avançadas para Analytics",
+    "texto": "<p>Saber implementar de forma estruturada e dentro de um processo valido</p>",
+    "categoria": "programacao",
+    "cor": "blue-grey darken-4",
+    "link": ""
+  },
+  {
+    "id": "18",
+    "titulo": "Construção de sites",
+    "texto": "<p>Porque construir um site com um profissional sempre ajuda a mostrar você de verdade na internet</p>",
+    "categoria": "programacao",
+    "cor": "blue-grey darken-4",
+    "link": ""
+  },
+  {
+    "id": "19",
+    "titulo": "Integração de databases",
+    "texto": "<p>Trabalhar com banco de dados pode ser mais que um excel.</p>",
+    "categoria": "programacao",
+    "cor": "blue-grey darken-4",
+    "link": ""
+  },
+  {
+    "id": "20",
+    "titulo": "Construção de APPS",
+    "texto": "<p>Contruir aplicações quando necessário e o que usar para ter uma melhor performance</p>",
+    "categoria": "programacao",
+    "cor": "blue-grey darken-4",
+    "link": ""
+  },
+  {
+    "id": "21",
+    "titulo": "Suporte open source",
+    "texto": "<p>Devolver ao mundo aquilo que veio a mim e compartilhar meu conhecimento</p>",
+    "categoria": "programacao",
+    "cor": "blue-grey darken-4",
+    "link": ""
+  }
+]
