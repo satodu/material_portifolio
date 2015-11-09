@@ -1,4 +1,4 @@
-# material_portifolio
+# Material Design Portifolio
 Portifolio based in material design
 
 This Wisget create a PHP and MySQL portifolio with animation
