@@ -1,0 +1,29 @@
+{
+  "name": "Material Design Portifolio",
+  "version": "0.0.2",
+  "homepage": "https://github.com/satodu/material_portifolio",
+  "description": "MAterial Design Portifolio",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Material",
+    "Design",
+    "Portifolio"
+  ],
+  "authors": [
+    "Eduardo Sato",
+    "Dom"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "isotope": "~2.2.2",
+    "Materialize": "materialize#~0.97.2"
+  }
+}
