@@ -1,18 +1,16 @@
 {
-  "name": "Material Design Portifolio",
-  "version": "0.0.2",
-  "homepage": "https://github.com/satodu/material_portifolio",
-  "description": "MAterial Design Portifolio",
+  "name": "material_portifolio",
+  "homepage": "http://eduardo.papoinformal.com.br",
+  "description": "Material design potifolio",
   "main": "",
-  "moduleType": [],
+  "moduleType": [
+    "amd"
+  ],
   "keywords": [
-    "Material",
-    "Design",
-    "Portifolio"
+    "Material"
   ],
   "authors": [
-    "Eduardo Sato",
-    "Dom"
+    "Eduardo Sato"
   ],
   "license": "MIT",
   "ignore": [
