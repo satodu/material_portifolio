@@ -1,0 +1,2 @@
+#Ignore Folders from bower elements
+/bower_components/*

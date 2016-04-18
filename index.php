@@ -6,6 +6,7 @@
 </head>
 <body>
 	<script>
+	//create the click event to filter based in the category
 		$(document).ready(function(){
 			var $container = $('.row.conteudo');		
 			$container.isotope({filter: '*',sortBy:'random',animationOptions: 
@@ -16,6 +17,7 @@
 			}			});			return false;		});	});	
 	</script>	
 	<main>	
+	<!-- Create the category menu :: ADD automatic -->
 		<div class="container" sytle="margin-top:5%;">
 			<ul class="pagination center">	
 				<li class="waves-effect light" data-filter=".marketing">Categoria 1</li>	
